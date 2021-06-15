@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="2">
+
+  <testsuite name="AccountTest"
+    errors="0" failures="1" hostname="" id="" package="AccountTest" skipped="1"
+    tests="2" time="3.233" timestamp="">
+  
+    <testcase name="Step 1: Start up" classname="AccountTest" time="0.2180" assertions="0">
+    </testcase>
+  
+    <testcase name="Step 2: Test Accounts" classname="AccountTest" time="3.015" assertions="2">
+
+      <failure message="Testing if the page title equals &#34;Adept 2&#34; in 1000 ms. - expected [0;32m&#34;Adept 2&#34;[0m but got: [0;31m&#34;adept.int.gainesville.infiniteenergy.com cannot be found - Cox Communications&#34;[0m">    at OpenMainPage (C:\projects\smoketests\tests\AccountTest.js:57:13)
+    at DoAccount (C:\projects\smoketests\tests\AccountTest.js:46:3)
+    at Object.DoAccounts [as Step 2: Test Accounts] (C:\projects\smoketests\tests\AccountTest.js:39:5)</failure>
+
+    <failure message="    at OpenMainPage (C:\projects\smoketests\tests\AccountTest.js:57:13)">    at DoAccount (C:\projects\smoketests\tests\AccountTest.js:46:3)
+    at Object.DoAccounts [as Step 2: Test Accounts] (C:\projects\smoketests\tests\AccountTest.js:39:5)</failure>
+    </testcase>
+  
+
+  
+
+  
+    
+    <testcase
+      name="Step 3: Finish up" classname="AccountTest">
+      <skipped />
+    </testcase>
+    
+  
+  </testsuite>
+</testsuites>

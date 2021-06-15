@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="5">
+
+  <testsuite name="MenuCrawlTest"
+    errors="0" failures="0" hostname="" id="" package="MenuCrawlTest" skipped="0"
+    tests="5" time="172.0" timestamp="">
+  
+    <testcase name="Step 1: open adept and nav to main page" classname="MenuCrawlTest" time="2.294" assertions="5">
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Step 2: Debug: dump menu size counts" classname="MenuCrawlTest" time="0.2820" assertions="0">
+    </testcase>
+  
+    <testcase name="Step 3: Crawl Markets &amp; Enrollment Links" classname="MenuCrawlTest" time="96.50" assertions="22">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Step 4: Crawl Tools menu" classname="MenuCrawlTest" time="67.87" assertions="33">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Step 5: finish up" classname="MenuCrawlTest" time="5.079" assertions="1">
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

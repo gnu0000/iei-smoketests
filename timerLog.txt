@@ -1,0 +1,12 @@
+----------------------------------------------
+  Timer log started at 4/20/2019, 4:43:24 PM
+----------------------------------------------
+Timer test1 completed in 0.938 seconds
+Timer test2 completed in 3.603 seconds
+All tests completed in 4.852 seconds}
+----------------------------------------------
+  Timer log started at 4/20/2019, 4:43:58 PM
+----------------------------------------------
+Timer test1 completed in 0.966 seconds
+Timer test2 completed in 3.228 seconds
+All tests completed in 4.505 seconds}

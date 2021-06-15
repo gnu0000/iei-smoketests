@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="0">
+
+  <testsuite name="MenuTest"
+    errors="0" failures="0" hostname="" id="" package="MenuTest" skipped="5"
+    tests="0" time="0" timestamp="">
+  
+
+  
+
+  
+    
+    <testcase
+      name="Step 1: Start up" classname="MenuTest">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Step 2: open adept and nav to main page" classname="MenuTest">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Step 3: Test Markets and enrollments" classname="MenuTest">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Step 4: Test Tools" classname="MenuTest">
+      <skipped />
+    </testcase>
+    
+    <testcase
+      name="Step 5: Finish up" classname="MenuTest">
+      <skipped />
+    </testcase>
+    
+  
+  </testsuite>
+</testsuites>

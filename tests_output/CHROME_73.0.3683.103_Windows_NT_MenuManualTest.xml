@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="2">
+
+  <testsuite name="MenuManualTest"
+    errors="0" failures="1" hostname="" id="" package="MenuManualTest" skipped="1"
+    tests="2" time="7.167" timestamp="">
+  
+    <testcase name="Step 1: open adept and nav to main page" classname="MenuManualTest" time="2.546" assertions="5">
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Step 2: navigate Markets menu" classname="MenuManualTest" time="4.621" assertions="1">  <failure message="Timed out while waiting for element &lt;body&gt; to be present for 2000 milliseconds. - expected [0;32m&#34;visible&#34;[0m but got: [0;31m&#34;not found&#34;[0m">    at ClickMenuLink (C:\projects\smoketests\tests\MenuManualTest.js:112:10)
+    at Object.NavigateMarketsMenu [as Step 2: navigate Markets menu] (C:\projects\smoketests\tests\MenuManualTest.js:45:3)
+    at &lt;anonymous&gt;</failure>
+
+    <failure message="    at ClickMenuLink (C:\projects\smoketests\tests\MenuManualTest.js:112:10)">    at Object.NavigateMarketsMenu [as Step 2: navigate Markets menu] (C:\projects\smoketests\tests\MenuManualTest.js:45:3)
+    at &lt;anonymous&gt;</failure>
+    </testcase>
+  
+
+  
+
+  
+    
+    <testcase
+      name="Step 5: finish up" classname="MenuManualTest">
+      <skipped />
+    </testcase>
+    
+  
+  </testsuite>
+</testsuites>

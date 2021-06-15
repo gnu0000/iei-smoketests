@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "test": "nightwatch",
+    "crawler": "nightwatch"
+  },
+  "dependencies": {
+    "chromedriver": "^2.46.0",
+    "nightwatch": "^1.0.19"
+  }
+}
